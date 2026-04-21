@@ -224,3 +224,7 @@ Practical guidance:
 | 240 | 60 | Asset catalog | 5.68 | 29.17 | 30.81 | 30.89 | 1.64 | 1.72 | 6.19 | 100.13 |
 | 240 | 60 | Performance | 33.41 | 29.14 | 28.53 | 29.14 | 0.00 | 0.00 | 48.17 | 113.23 |
 | 240 | 60 | UIImageView animationImages | 91.92 | 29.16 | 563.30 | 1100.72 | 535.77 | 1071.56 | 97.54 | 105.25 |
+
+## Notes
+
+The original project, which provides a custom class rather than extending UIImageView, and is written in Objective-C, is retained on the `objc` branch.
