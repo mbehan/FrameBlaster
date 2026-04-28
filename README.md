@@ -1,5 +1,7 @@
 # FrameBlaster
 
+<img width="1536" height="1024" alt="frameblaster2k" src="https://github.com/user-attachments/assets/cada0fa4-af7b-42e8-9e4b-3b65031f5c61" />
+
 FrameBlaster is a Swift package that adds frame-based animation helpers directly to `UIImageView`.
 
 It provides two animation paths:
